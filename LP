@@ -222,7 +222,7 @@
         },
         {
         "@type": "SoftwareApplication",
-        "@id": "https://www.beneficiosocial.com.br#app"
+        "@id": "https://www.beneficiosocial.com.br#app",
         "name": "Link MIMISLOT Resmi",
         "applicationCategory": "GameApplication",
         "operatingSystem": "Android, iOS, Windows",
