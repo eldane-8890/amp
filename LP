@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>MIMISLOT: Situs Slot Gacor Deposit via DANA 5K Tanpa Potongan</title>
 <link rel="canonical" href="https://www.beneficiosocial.com.br/" />
-<link rel="amphtml" href="https://www-beneficiosocial.pages.dev/">
+<link rel="amphtml" href="https://www-beneficiosocial.pages.dev">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
 <meta name="description" content="MIMISLOT adalah situs slot gacor terpercaya dengan deposit via DANA 5K. Nikmati kemudahan bermain slot depo 5k tanpa potongan dengan winrate tertinggi. Daftar sekarang di MIMISLOT!">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -926,9 +926,9 @@ if (clientloggerIsEnabled) {
 
 </style>
                           <div class="n-columns-2">
-                                <a href="" rel="nofollow noreferrer"
+                                <a href="https://www-beneficiosocial.pages.dev" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="" rel="nofollow noreferrer"
+                               <a href="https://www-beneficiosocial.pages.dev" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -1699,7 +1699,7 @@ if (clientloggerIsEnabled) {
         </div>
   </div>
   <div class="lonely-daftar">
-      <a rel="nofollow noopener" href="">
+      <a rel="nofollow noopener" href="https://www-beneficiosocial.pages.dev">
           <img src="https://pub-c2e279b0c1804547b84515865a067405.r2.dev/daftardisini.gif" width="100%" height="auto" alt="Daftar Sekarang">
       </a>
   </div>
@@ -2740,23 +2740,23 @@ if (clientloggerIsEnabled) {
     
 
 <div class="lonely-gacor-fixed-footer">
-  <a href="" target="_blank" rel="nofollow noopener">
+  <a href="https://www-beneficiosocial.pages.dev" target="_blank" rel="nofollow noopener">
     <img src="https://i.pinimg.com/736x/8e/a1/0f/8ea10f29af0f148af62826442d138c19.jpg" alt="BONUS MIMISLOT">
     Promo
   </a>
-  <a href="" target="_blank" rel="nofollow noopener">
+  <a href="https://www-beneficiosocial.pages.dev" target="_blank" rel="nofollow noopener">
     <img src="https://i.pinimg.com/736x/8e/a1/0f/8ea10f29af0f148af62826442d138c19.jpg" alt="LOGIN MIMISLOT">
     Login
   </a>
-  <a href="" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://www-beneficiosocial.pages.dev" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://i.pinimg.com/736x/8e/a1/0f/8ea10f29af0f148af62826442d138c19.jpg" alt="DAFTAR MIMISLOT">
     Daftar
   </a>
-  <a href="" target="_blank" rel="nofollow noopener">
+  <a href="https://www-beneficiosocial.pages.dev" target="_blank" rel="nofollow noopener">
     <img src="https://i.pinimg.com/736x/8e/a1/0f/8ea10f29af0f148af62826442d138c19.jpg" alt="WHATSAPP MIMISLOT">
     Whatsapp
   </a>
-  <a href="" target="_blank" rel="nofollow noopener">
+  <a href="https://www-beneficiosocial.pages.dev" target="_blank" rel="nofollow noopener">
     <img src="https://i.pinimg.com/736x/8e/a1/0f/8ea10f29af0f148af62826442d138c19.jpg" alt="LIVE CHAT MIMISLOT">
     Live Chat
   </a>
