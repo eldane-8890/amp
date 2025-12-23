@@ -1,5 +1,8 @@
 <div id="block-3" class="widget widget_block kingster-widget"><div style="display:none;">
 <p>Sponsored By <a href="https://royailstar.com/">MIMI GAMES</a></p>
+<p><a href="https://royailstar.com/category/aov/">AOV - MIMI GAMES</a></p>
+
+
 <p>Sponsored By <a href="https://cost-transforming-audiences.eu/">GAME GEAR</a></p>
 <p>Sponsored By <a href="https://allisonrandolph.com/">MIMI SPORT NEWS</a></p>
 <p>Sponsored By <a href="https://thetinywife.com/">Gadget Eye</a></p>
